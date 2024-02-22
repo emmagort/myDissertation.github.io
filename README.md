@@ -1,2 +1,1 @@
-# myDissertation.github.io
-Online dissertation?
+# Diss
